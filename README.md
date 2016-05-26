@@ -4,4 +4,6 @@
 
 Notebooks accompanying the 2-photon random access mesoscope (2p-RAM) paper
 
-WIP - data still needs to be uploaded to AWS
+The raw imaging data is hosted on AWS.
+
+Copies of the processed data and meta data are stored in this repository

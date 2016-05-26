@@ -1,0 +1,14 @@
+{
+"id": "Anm_0266809",
+"date":"2016_12_14",
+"lab": "Svoboda Lab",
+"contributors": ["Nicholas Sofroniew"],
+"location": "Janelia Research Campus",
+"animal": "Mouse",
+"animal-state": "Awake head-fixed",
+"indicator": "GCaMP6s",
+"depth-microns": 200,
+"pixels-per-micron": 0.84,
+"rate-hz": 9.6,
+"dimensions": [ 6000 , 4 , 512 , 512 ],
+}
