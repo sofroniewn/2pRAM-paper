@@ -8,5 +8,7 @@ The raw imaging data is hosted on AWS.
 
 Copies of the processed data and meta data are stored in this repository
 
-Videos derived from this data can be found here
-https://www.youtube.com/watch?v=LSYXueH1pzU&list=PLDOd6H-eiYAQ3rmK5HtiMNi-C2s3QsTTK
+Videos derived from this data can be found [here](https://www.youtube.com/watch?v=LSYXueH1pzU&list=PLDOd6H-eiYAQ3rmK5HtiMNi-C2s3QsTTK)
+in particular movies 2 and 3
+
+
