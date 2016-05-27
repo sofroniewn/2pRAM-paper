@@ -1,3 +1,5 @@
 thunder-python
+thunder-registration
 regional
 showit
+seaborn
