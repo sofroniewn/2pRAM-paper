@@ -1,5 +1,6 @@
 thunder-python
 thunder-registration
+thunder-extraction
 regional
 showit
 seaborn
