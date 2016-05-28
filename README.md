@@ -10,6 +10,7 @@ Sofroniew, N. J. 1, *, Flickinger, D. 1, *, King, J. 2, Svoboda, K. 1
 
 1 Janelia Research Campus, Ashburn VA 20147, USA
 2 Vidrio Technologies, Ashburn VA 20147, USA
+
 *These authors contributed equally to this work
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
