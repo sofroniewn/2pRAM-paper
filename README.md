@@ -1,8 +1,8 @@
-# A large field of view two-photon mesoscope with subcellular resolution for in vivo imaging 
+# Mesoscale two-photon calcium imaging with the 2p-RAM
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/sofroniewn/2pRAM-paper)
 
-Notebooks accompanying
+Notebooks and data acquired with the two-photon random access mesoscope (2p-RAM), accompanying
 
 A large field of view two-photon mesoscope with subcellular resolution for in vivo imaging 
 
