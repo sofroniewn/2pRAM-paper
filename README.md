@@ -1,4 +1,4 @@
-# Mesoscale 2-photon imaging with the 2p-RAM
+# Mesoscale two-photon imaging with the 2p-RAM
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/sofroniewn/2pRAM-paper)
 
