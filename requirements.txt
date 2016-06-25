@@ -1,4 +1,4 @@
-thunder-python >= 1.1.1
+thunder-python >= 1.2.0
 thunder-registration
 thunder-extraction
 regional
