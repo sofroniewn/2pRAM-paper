@@ -1,8 +1,8 @@
 thunder-python >= 1.2.0
 thunder-registration
 thunder-extraction
+numpy
+scipy
 regional
 showit
 seaborn
-numpy
-scipy
