@@ -4,3 +4,5 @@ thunder-extraction
 regional
 showit
 seaborn
+numpy
+scipy
